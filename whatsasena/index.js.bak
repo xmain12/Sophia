@@ -59,4 +59,4 @@ ${chalk.white('⚙ ඔබට Qr කේතය ලබාගැනීමට අප�
 	await conn.connect();
 }
 
-Stefanie();
+QUEENSTEFANIE();

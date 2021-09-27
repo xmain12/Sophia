@@ -1,0 +1,16 @@
+{
+  "name": "WhatsAlexa-BaileysApi",
+  "version": "1.0.0",
+  "description": "- **WhatsAlexa** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Alexa has a **Lot of Commands/Features,** Including **Voice Chat.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "chalk": "^4.1.0"
+  }
+}
